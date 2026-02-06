@@ -16,24 +16,24 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://athype.eu">Athype</a></b>
+                <b><a target="_blank" href="https://krisztiankozari.dev">Krisztian</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Athype">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Krisztian">「 Google Me 」</a>
     <br>
-    「 I am a software engineering student from<b>Hungary, living in the Netherlands</b> 」
+    「 I am a software engineering student from<b> Hungary, living in the Netherlands</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://athype.eu" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="athype" />
+ <a href="https://krisztiankozari.dev" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="portfolio site" />
  </a>
  <!-- <a href="https://linkedin.com/in/al-siam" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="athype"/>
@@ -59,9 +59,9 @@
 <p>
  <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: athype.edits@athype.eu<br/><br/>
+ 📧 &emsp; Reach me anytime: contact@krisztiankozari.dev<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/athype/athype/issues)
 
 </p>
@@ -70,12 +70,11 @@
 <br/>
 <br/>
 
-## Use To Code
+## Used To Code
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -84,7 +83,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <br/>
 
